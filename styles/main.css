@@ -1,0 +1,15 @@
+a {
+    color: #2300a0;
+    text-decoration: underline;
+    transition: all 0.3s ease;
+}
+a:hover {
+    color: #0044ff;
+    text-decoration: none;
+}
+a:active {
+    color: #0044ff;
+}
+a:focus {
+    color: #0044ff;
+}
