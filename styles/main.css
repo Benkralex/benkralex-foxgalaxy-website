@@ -30,6 +30,3 @@ a:hover::after {
 a:active {
     color: #00f7ff;
 }
-a:focus {
-    color: #00c3ff;
-}
